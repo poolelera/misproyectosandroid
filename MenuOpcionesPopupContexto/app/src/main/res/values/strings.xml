@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MenuOpcionesPopupContexto</string>
+    <string name="titleAbout">About</string>
+    <string name="titleSettings">Settings</string>
+    <string name="titleEdit">Edit</string>
+    <string name="titleDelete">Delete</string>
+    <string name="titleView">View</string>
+    <string name="titleViewDetail">ViewDetail</string>
+
+    <string name="texto_About">About</string>
+    <string name="texto_Settings">Settings</string>
+    <string name="nombre_lucerito">Lucerito</string>
+
+</resources>
