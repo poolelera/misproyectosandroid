@@ -8,4 +8,7 @@
     <string name="pnombre">pnombre</string>
     <string name="ptelefono">ptelefono</string>
     <string name="pemail">pemail</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Holiiiiiiiii</string>
 </resources>
