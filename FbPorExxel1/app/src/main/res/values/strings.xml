@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FbPorExxel1</string>
+    <string name="bienvenida">Bienvenidos</string>
+    <string name="facebook_app_id">1885209645098802</string>
+    <string name="error_login">Ocurrió un error al ingresar</string>
+    <string name="cancel_login">Se canceló la operacion de logueo</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+</resources>

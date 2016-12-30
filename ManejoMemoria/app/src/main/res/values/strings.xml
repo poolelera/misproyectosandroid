@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ManejoMemoria</string>
+    <string name="titulo">Manejo de Memoria</string>
+    <string name="nombre">Nombre</string>
+    <string name="boton_guardar">Guardar Archivo</string>
+</resources>
