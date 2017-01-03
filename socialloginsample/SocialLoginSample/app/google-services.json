@@ -1,0 +1,48 @@
+{
+"project_info": {
+"project_number": "359050312705",
+"project_id": "socialloginsample"
+},
+"client": [
+{
+"client_info": {
+"mobilesdk_app_id": "1:359050312705:android:27d689d63f1b7a06",
+"android_client_info": {
+"package_name": "com.google.samples.quickstart.signin"
+}
+},
+"oauth_client": [
+{
+"client_id": "359050312705-lgb6r8vefs28ge62i7vkbj14u78991gq.apps.googleusercontent.com",
+"client_type": 1,
+"android_info": {
+"package_name": "com.google.samples.quickstart.signin",
+"certificate_hash": "223E4094021F183CF04CC1FD6AC20820F9B5384C"
+}
+},
+{
+"client_id": "359050312705-rq4mjlrihhvv8tavc491bl7lf8lvr47f.apps.googleusercontent.com",
+"client_type": 3
+}
+],
+"api_key": [
+{
+"current_key": "AIzaSyDvJjn7pZDjJq-Yg3JwqCT9v_q3B_eeVy0"
+}
+],
+"services": {
+"analytics_service": {
+"status": 1
+},
+"appinvite_service": {
+"status": 1,
+"other_platform_oauth_client": []
+},
+"ads_service": {
+"status": 1
+}
+}
+}
+],
+"configuration_version": "1"
+}

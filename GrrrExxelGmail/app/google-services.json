@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1019404585905",
+    "project_id": "gmailexxel3"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019404585905:android:334785901d9f9b5d",
+        "android_client_info": {
+          "package_name": "com.example.pc2_desarrollo.grrrexxelgmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019404585905-7f81arsrug6l37ka1oh4qe711dh6scqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc2_desarrollo.grrrexxelgmail",
+            "certificate_hash": "223E4094021F183CF04CC1FD6AC20820F9B5384C"
+          }
+        },
+        {
+          "client_id": "1019404585905-fav3566mgmmbl1s73hehpjnk5r38frup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD1gIDGvltjZXjnKe6XAXUtRK6vQDicBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

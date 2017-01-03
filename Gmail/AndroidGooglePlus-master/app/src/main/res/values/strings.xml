@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GmailExxel2</string>
+    <string name="action_settings">Settings</string>
+    <string name="server_client_id">520891866470-fkudqeq2aje7vqae8jboo273jsp4c876.apps.googleusercontent.com</string>
+    <!-- Button labels -->
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+</resources>

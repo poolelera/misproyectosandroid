@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "520891866470",
+    "firebase_url": "https://gmailexxel2.firebaseio.com",
+    "project_id": "gmailexxel2",
+    "storage_bucket": "gmailexxel2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520891866470:android:4aa435e1b70a937e",
+        "android_client_info": {
+          "package_name": "com.example.pc2_desarrollo.gmailexxel2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520891866470-fkudqeq2aje7vqae8jboo273jsp4c876.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc2_desarrollo.gmailexxel2",
+            "certificate_hash": "223E4094021F183CF04CC1FD6AC20820F9B5384C"
+          }
+        },
+        {
+          "client_id": "520891866470-vemqqa95n0l1bq05belg8qqsvoucevl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxpPQGTjFNSJWAteje5KUTF1io4ccgczI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520891866470-vemqqa95n0l1bq05belg8qqsvoucevl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
